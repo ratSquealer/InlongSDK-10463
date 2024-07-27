@@ -859,7 +859,7 @@ public class DefaultMessageSender implements MessageSender {
         shutdownInternalThreads();
     }
 
-//    @Override ------------------------------------------------------------------------
+//   ------------------------------------------------------------------------
     public SendResult sendMessage(byte[] body, String groupId, String streamId, long dt, String msgUUID,
                                   long timeout, TimeUnit timeUnit, boolean isProxySend, boolean isTruncated) {
         int maxMessageLength = config.getMaxMessageLength();
