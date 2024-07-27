@@ -1,0 +1,4 @@
+org/apache/inlong/sdk/dataproxy/AppTest.class
+org/apache/inlong/sdk/dataproxy/UtilsTest.class
+org/apache/inlong/sdk/dataproxy/ProxyConfigManagerTest.class
+org/apache/inlong/sdk/dataproxy/EncryptUtilTest.class
